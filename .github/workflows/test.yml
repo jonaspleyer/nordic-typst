@@ -23,3 +23,5 @@ jobs:
       - name: Compile testfile
         run: typst compile testfile.typ
 
+      - name: Compile Test Files
+        run: for file in $(ls tests); do typst compile tests/$file --root . ; done

@@ -9,8 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Compile lib.typ
-        run: typst compile lib.typ
+      - name: Compile nordic.typ
+        run: typst compile nordic.typ
 
       - name: Create local package folder
         run: mkdir -p ~/.local/share/typst/packages/local/nordic/0.1.0

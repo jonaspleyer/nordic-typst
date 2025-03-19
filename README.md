@@ -1,5 +1,5 @@
 # nordic
-![Test](https://img.shields.io/github/actions/workflow/status/jonaspleyer/nordic/test.yml?style=flat-square&label=Test)
+![Test](https://img.shields.io/github/actions/workflow/status/jonaspleyer/nordic-typst/test.yml?style=flat-square&label=Test)
 
 The [nordic](https://github.com/jonaspleyer/nordic) color theme was majorly inspired by the
 identically named Neovim colorscheme [nordic.nvim](https://github.com/AlexvZyl/nordic.nvim).

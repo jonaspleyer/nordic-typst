@@ -18,7 +18,7 @@ For a list of them, please refer directly to the main file
 
 ```typst
 #import "@preview/nordic:0.1.0" as nordic
-#rect(fill: nordic.yellow_bright)[Hello World]
+#rect(fill: nordic.yellow-bright)[Hello World]
 ```
 
 ## License

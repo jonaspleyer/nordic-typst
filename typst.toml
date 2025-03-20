@@ -6,5 +6,4 @@ license = "MIT"
 description = "Nordic color theme."
 entrypoint = "nordic.typ"
 repository = "https://github.com/jonaspleyer/nordic-typst"
-homepage = "https://github.com/jonaspleyer/nordic-typst"
 categories = ["components"]

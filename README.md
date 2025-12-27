@@ -34,7 +34,7 @@ The nordic color theme integrates with many other libraries such as `polylux` fo
 
 See [`tests/sample-presentation.typ`](https://github.com/jonaspleyer/nordic-typst/blob/main/tests/sample-presentation.typ)
 
-![](tests/sample-presentation.png)
+![](examples/sample-presentation.png)
 
 ## License
 Download the [MIT License](https://www.mit.edu/~amini/LICENSE.md)

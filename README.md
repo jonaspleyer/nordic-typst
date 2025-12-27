@@ -23,6 +23,17 @@ For a list of them, please refer directly to the main file
 
 ## Slides with [`polylux`](https://github.com/polylux-typ/polylux)
 
+The nordic color theme integrates with many other libraries such as `polylux` for creating slides.
+```typst
+#import "@preview/polylux:0.4.0": *
+#import "../nordic.typ" as nordic
+#show: nordic.default
+
+/* ... */
+```
+
+See [`tests/sample-presentation.typ`](https://github.com/jonaspleyer/nordic-typst/blob/main/tests/sample-presentation.typ)
+
 ![](tests/sample-presentation.png)
 
 ## License

@@ -21,6 +21,10 @@ For a list of them, please refer directly to the main file
 #rect(fill: nordic.yellow-bright)[Hello World]
 ```
 
+## Slides with [`polylux`](https://github.com/polylux-typ/polylux)
+
+![](tests/sample-presentation.png)
+
 ## License
 Download the [MIT License](https://www.mit.edu/~amini/LICENSE.md)
 
